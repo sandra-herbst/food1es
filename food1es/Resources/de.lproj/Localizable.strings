@@ -1,0 +1,120 @@
+"navTitleFavorites" = "Favoriten";
+"favoritesEmptyText" = "Du hast bisher noch keine Rezepte gespeichert. Like ein Rezept um es hier zu speichern!";
+
+"navTitleRecipeSearch" = "Suche";
+"searchRecipeTextPrompt" = "Suche nach einem Rezept...";
+"amountResults" = "%@ Resultate";
+
+// Welcome Screen
+"lets go" = "Los geht's";
+"welcome" = "Willkommen!";
+"namePrompt" = "Namen eingeben";
+
+// Launch Screen
+"welcomeUser" = "Willkommen zurück, %@!";
+
+// Grocery List View
+"navTitleGroceries" = "Lebensmittel";
+"searchGroceryTextPrompt" = "Suche nach Lebensmittel...";
+"groceriesEmptyText" = "Ist dein Kühlschrank leer? Füge Lebensmittel hinzu, die du besitzt!";
+
+// Shopping List View
+"navTitleShopping" = "Einkaufsliste";
+"shoppingListTextPrompt" = "Lege Lebensmittel an, die du einkaufen möchtest...";
+"defaultRecipe" = "Sonstiges";
+"shoppingListEmptyText" = "Füge Lebensmittel zu deinem Einkaufswagen hinzu um loszulegen!";
+
+// Search Grocery Sheet View
+"searchGrocerySheetTitle" = "Suche";
+"suggestionListTitle" = "Vorschläge";
+
+// Search Filter
+"filter" = "Filter";
+"cuisine" = "Küchen";
+"meal" = "Gerichtstyp";
+"amountSelected" = "%@ Ausgewählt";
+"searchWithOwnedGroceries" = "Mit Lebensmittel im Besitz suchen";
+"resetAll" = "Zurücksetzen";
+
+// Add Grocery Sheet View
+"unitTypeTitle" = "Einheit";
+"amountTextPrompt" = "Menge";
+"aisleTitle" = "Lebensmitteltyp";
+"selectionTitle" = "Derzeitige Auswahl";
+"confirmButtonText" = "Bestätigen";
+"deleteAlertTitle" = "Lebensmittel löschen";
+"addToAlertTitle" = "Zur Shoppingliste zufügen";
+"deleteAlertDescription" = "Möchtest du dieses Lebensmittel löschen?";
+"addToAlertDescription" = "Möchtest du dieses Lebensmittel zur Shoppingliste hinzufügen?";
+"deleteButton" = "Löschen";
+"addToButton" = "Hinzufügen";
+"cancelButton" = "Abbrechen";
+
+// Units
+"kilogram" = "Kilogramm";
+"gram" = "Gramm";
+"liter" = "Liter";
+"milliliter" = "Milliliter";
+"count" = "Anzahl";
+"unitTitleFormatted" = "%@ (%@)";
+
+// Aisle
+"baking" = "Backwaren";
+"meat" = "Fleisch und Meeresfrüchte";
+"freshProduce" = "Früchte und Gemüse";
+"spicesSeasonings" = "Gewürze";
+"milkDairy" = "Milcherzeugnisse und Eier";
+"nutJams" = "Nüsse und Marmeladen";
+"animalProducts" = "Fleisch, Eier und Honig";
+
+// Recipe Details
+"portions" = "Portionen";
+"ingredients" = "Zutaten";
+"preparations" = "Zubereitung";
+
+// Cuisines
+"african" = "Afrikanisch";
+"american" = "Amerikanisch";
+"british" = "Britisch";
+"cajun" = "Cajun";
+"caribbean" = "Karibik";
+"chinese" = "Chinesisch";
+"eastern european" = "Osteuropäisch";
+"european" = "Europäisch";
+"french" = "Französisch";
+"german" = "Deutsch";
+"greek" = "Griechisch";
+"indian" = "Indisch";
+"irish" = "Irisch";
+"italian" = "Italienisch";
+"japanese" = "Japanisch";
+"jewish" = "Jüdisch";
+"korean" = "Koreanisch";
+"latin american" = "Latin Amerikanisch";
+"mediterranean" = "Südländisch";
+"middle eastern" = "Orientalisch";
+"mexican" = "Mexikanisch";
+"nordic" = "Nordisch";
+"southern" = "Südländisch";
+"spanish" = "Spanisch";
+"thai" = "Thailändisch";
+"vietnamese" = "Vietnamesisch";
+
+// Meal Types
+"main course" = "Hauptgericht";
+"side dish" = "Beilage";
+"lunch" = "Mittagessen";
+"dinner" = "Abendessen";
+"dessert" = "Dessert";
+"appetizer" = "Vorspeise";
+"salad" = "Salat";
+"bread" = "Brot";
+"breakfast" = "Frühstück";
+"soup" = "Suppe";
+"beverage" = "Getränk";
+"sauce" = "Soße";
+"marinade" = "Marinade";
+"fingerfood" = "Fingerfood";
+"snack" = "Snack";
+"drink" = "Alkohol. Getränke";
+"other" = "Sonstiges";

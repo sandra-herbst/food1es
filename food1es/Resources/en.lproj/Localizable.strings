@@ -1,0 +1,120 @@
+"navTitleFavorites" = "Favorites";
+"favoritesEmptyText" = "You have not saved a recipe yet. Start liking recepies to see them in here!";
+
+"navTitleRecipeSearch" = "Search";
+"searchRecipeTextPrompt" = "Search for a recipe...";
+"amountResults" = "%@ Results";
+
+// Welcome Screen
+"lets go" = "Let's go";
+"welcome" = "Welcome!";
+"namePrompt" = "Enter name";
+
+// Launch Screen
+"welcomeUser" = "Welcome back, %@!";
+
+// Grocery List View
+"navTitleGroceries" = "Groceries";
+"searchGroceryTextPrompt" = "Search for groceries...";
+"groceriesEmptyText" = "Is your fridge empty? Add any groceries you might have!";
+
+// Shopping List View
+"navTitleShopping" = "Shopping List";
+"shoppingListTextPrompt" = "Add groceries you want to buy...";
+"defaultRecipe" = "Other";
+"shoppingListEmptyText" = "Add groceries to your shopping list to get started!";
+
+// Search Grocery Sheet View
+"searchGrocerySheetTitle" = "Search";
+"suggestionListTitle" = "Suggestions";
+
+// Search Filter
+"filter" = "Filter";
+"cuisine" = "Cuisines";
+"meal" = "Meal Type";
+"amountSelected" = "%@ Selected";
+"searchWithOwnedGroceries" = "Search with owned groceries";
+"resetAll" = "Reset";
+
+// Add Grocery Sheet View
+"unitTypeTitle" = "Unit Type";
+"amountTextPrompt" = "Amount";
+"aisleTitle" = "Aisle";
+"selectionTitle" = "Current Selection";
+"confirmButtonText" = "Confirm";
+"deleteAlertTitle" = "Delete grocery item";
+"addToAlertTitle" = "Add to Shopping bag";
+"deleteAlertDescription" = "Do you really want to delete this grocery item?";
+"addToAlertDescription" = "Do you want to add this grocery to your shopping bag?";
+"deleteButton" = "Delete";
+"addToButton" = "Add";
+"cancelButton" = "Cancel";
+
+// Units
+"kilogram" = "Kilogram";
+"gram" = "Gram";
+"liter" = "Liter";
+"milliliter" = "Milliliter";
+"count" = "Count";
+"unitTitleFormatted" = "%@ (%@)";
+
+// Aisle
+"baking" = "Baking";
+"meat" = "Meat and Seafood";
+"freshProduce" = "Fruits and Vegetables";
+"spicesSeasonings" = "Spices and Seasonings";
+"milkDairy" = "Dairy";
+"nutJams" = "Nuts and Jams";
+"animalProducts" = "Meat, Eggs and Honey";
+
+// Recipe Details
+"portions" = "Portions";
+"ingredients" = "Ingredients";
+"preparations" = "Preparations";
+
+// Cuisines
+"african" = "African";
+"american" = "American";
+"british" = "British";
+"cajun" = "Cajun";
+"caribbean" = "Caribbean";
+"chinese" = "Chinese";
+"eastern european" = "Eastern European";
+"european" = "European";
+"french" = "French";
+"german" = "German";
+"greek" = "Greek";
+"indian" = "Indian";
+"irish" = "Irish";
+"italian" = "Italian";
+"japanese" = "Japanese";
+"jewish" = "Jewish";
+"korean" = "Korean";
+"latin american" = "Latin American";
+"mediterranean" = "Mediterranean";
+"middle eastern" = "Middle Eastern";
+"mexican" = "Mexican";
+"nordic" = "Nordic";
+"southern" = "Southern";
+"spanish" = "Spanish";
+"thai" = "Thai";
+"vietnamese" = "Vietnamese";
+
+// Meal Types
+"main course" = "Main Course";
+"side dish" = "Side Dish";
+"lunch" = "Lunch";
+"dinner" = "Dinner";
+"dessert" = "Dessert";
+"appetizer" = "Appetizer";
+"salad" = "Salad";
+"bread" = "Bread";
+"breakfast" = "Breakfast";
+"soup" = "Soup";
+"beverage" = "Beverage";
+"sauce" = "Sauce";
+"marinade" = "Marinade";
+"fingerfood" = "Fingerfood";
+"snack" = "Snack";
+"drink" = "Drink";
+"other" = "Other";
